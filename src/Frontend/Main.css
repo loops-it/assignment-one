@@ -1,0 +1,6 @@
+
+.first-part-wrapper {
+    overflow: hidden; /* Stop scrolling for the first part */
+    height: auto;
+  }
+  

@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.body{
+    background-image: url('./Images/BackgroundImg.png');
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    height: auto;
+    background-position: center;
+}
+
+.Topic{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.Topic2{
+    font-family: "Poppins", sans-serif;
+    font-style: light;
+    font-weight: 200;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.rectangle {
+    display: inline-flex;
+    width: 90%; 
+    height: 400px; 
+    background-color: #FFFFFF; 
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 1000px;
+    margin-left: 5%;
+    text-decoration: none !important;
+    border-bottom: none;
+}
+
+.rectangle img {
+     width: 150px;
+     height: 150px;
+     margin-top: 50px;
+     margin-left: 64px;
+     text-decoration: none;
+}
+
+.topic8 {
+    font-family: "Poppins", sans-serif;
+    font-style: light;
+    font-weight: 500;
+    margin-top: 220px;
+    margin-left: -1130px;
+    text-decoration: none !important;
+    color: #22272C;
+    border-bottom: none;
+    display:inline-flex;
+
+}
+
+.phone {
+    font-family: "Poppins", sans-serif;
+    font-style: light;
+    margin-top: 220px;
+    margin-left: -1130px;
+    font-weight: 200;
+    font-size: 12px;
+    display: inline-flex;
+    
+}
+.phone img {
+    height: 10px;
+    width: 10px;
+}
+
+.address {
+    font-family: "Poppins", sans-serif;
+    font-style: light;
+    margin-top: 250px;
+    margin-left: -1130px;
+    font-weight: 200;
+    font-size: 12px;
+    
+}
+
+.address img {
+    height: 13px;
+    width: 10px;
+}
+
+.topic4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    font-size: 25px;
+    border-bottom: none;
+    color: #22272C;
+    display: inline-flex;
+    margin-left: 150px;
+}
+
+.subcontent {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    color: #22272C;
+    font-size: 13px;
+    margin-top: 0px;
+}
+
+.RaulandStats {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding: 8rem 0;
+    margin-left: 280px;
+  }
+  
+  .employees,
+  .customers,
+  .locations {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+    padding: 1rem;
+    border-radius: 5px;
+    flex: 1;
+  }
+  
+  .employees-number,
+  .customers-number,
+  .locations-number {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-size: 55px;
+    color: #076DE8;
+  }
+  
+  .employees-text,
+  .customers-text,
+  .locations-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 0.9rem;
+    color: #076DE8;
+    text-align: left;
+  }
+  
+  .employees-description,
+  .customers-description,
+  .locations-description {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    margin-top: 0.6rem;
+  }
+  .vertical-line {
+    margin-top: 30px;
+    border-left: 1px solid; 
+    height: 200px; 
+    color: #076DE8;
+    margin-right: 7px;
+  }
+  
+  
